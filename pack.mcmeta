@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "Bleb resources? Bog"
+  },
+  "language": {
+    "en_bd": {
+      "name": "Blebspeak",
+      "region": "Blebland Autonomous Region",
+      "bidirectional": false
+    }
+  }
+}
