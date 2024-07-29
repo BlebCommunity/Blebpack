@@ -94,7 +94,7 @@
 
 
 §f                    ==================
-§e                     Bleb Resources 1.9
+§e                          Blebpack 1.0
 §f                    ==================
 
 §7Originally Developed and Maintained by
