@@ -113,6 +113,9 @@
 §f          CorvidCai
 §f          SuperNathan
 §f          Ifryx
+§f          MarchingBones
+§f          NimbleJim_
+§f          Newyrm
 
 §7Additional Modelling
 §f          the_bru_pod
