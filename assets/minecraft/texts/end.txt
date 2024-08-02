@@ -94,7 +94,7 @@
 
 
 §f                    ==================
-§e                     Bleb Resources 1.9
+§e                          Blebpack 1.0
 §f                    ==================
 
 §7Originally Developed and Maintained by
@@ -113,6 +113,9 @@
 §f          CorvidCai
 §f          SuperNathan
 §f          Ifryx
+§f          MarchingBones
+§f          NimbleJim_
+§f          Newyrm
 
 §7Additional Modelling
 §f          the_bru_pod
