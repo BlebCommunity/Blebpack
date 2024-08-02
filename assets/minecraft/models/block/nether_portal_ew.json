@@ -1,6 +1,6 @@
 {
     "textures": {
-        "particle": "block/brazil",
+        "particle": "particle/brazil",
         "portal": "block/nether_portal"
     },
     "elements": [

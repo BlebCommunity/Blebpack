@@ -1,8 +1,7 @@
 {
   "pack": {
-    "pack_format": 34,
-    "supported_formats": [20,34],
-    "description": "Blebpack! Bog"
+    "pack_format": 8,
+    "description": "Bleb resources? Bog"
   },
   "language": {
     "en_bd": {
