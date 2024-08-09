@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/spawn_egg_template",
+      "textures": {
+		"0": "item/wither_skeleton_spawn_egg",
+		"particle": "item/wither_skeleton_spawn_egg"
+	}
+}
