@@ -65,3 +65,35 @@
 - Fix Chainmail armour models
 - Fix Vishy model when using EMF/Optifine
 - Fix broken Enderman texture without ETF/Optifine
+
+
+# v1.3.0
+
+
+#### by MarchingBones
+- Added Happy Ghast and Dried Ghast
+- Added 8 Happy Ghast Harnesses
+- Added Pottery Decorations
+- Added 9 Spawn Eggs
+- Added 12 Paintings
+
+
+---
+
+#### by iinterp
+- Added Evoker, Pillager, Vindicator & Witch textures
+- Added Custom Locator Bar Emotes
+- Added Snug Wandering Trader and Trader Llama
+- Added Frog textures
+- Edited Totem and Carved Pumpkin textures to be pixel consistent
+- Added Pale Oak Sapling SuSway
+- Added Oozing effect texture
+
+---
+
+- Fixed Armour Enchantment Glint not working
+- Removed Lum (my favourite meme!!)
+- Lowered Minecart volume
+- Made Axolot, Rabbit, and Turtle textures rare chances
+- Updated Ghast texture for vanilla parity
+- Fixed rare Honeydew Pig not spawning
