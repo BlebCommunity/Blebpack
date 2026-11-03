@@ -94,6 +94,38 @@
 - Fixed Armour Enchantment Glint not working
 - Removed Lum (my favourite meme!!)
 - Lowered Minecart volume
-- Made Axolot, Rabbit, and Turtle textures rare chances
+- Made Axolotl, Rabbit, and Turtle textures rare chances
 - Updated Ghast texture for vanilla parity
 - Fixed rare Honeydew Pig not spawning
+
+
+# v1.4.0
+
+- Update to 26.3 [by iinterp]
+
+- Add block game blebcraft title text [by zelaesh]
+  > Blebcraft title replaces super rare minceraft.png
+
+- Add Barry Shulker sounds [by wilco]
+
+- Add 10 Baby mob textures for blebpack retextured mobs [by iinterp]
+  > Bee, Drowned, Husk, Squid, Strider, Trader Llama, tsg Llama, Villager, Zombie, Zombie Villager
+
+- Add 18 Spawn Egg textures [by iinterp]
+  > Drowned, Elder Guardian, Ender Dragon, Evoker, Frog, Ghast, Guardian, Happy Ghast, Pillager, Shulker, Slime, Spider, Squid, Strider, Trader LLama, Vindicator, Wandering Trader, Zombie Villager
+
+- Add Accai Trapped Chest
+
+### Fixes
+- Fix inconsistencies between British and American spellings
+  > Now always uses British spellings
+
+- Fix Arms Up Pottery Sherd being named incorrectly
+
+- Fix Spiders eyes not glowing
+
+- Fix Picky Chickens not saying E
+
+- Slightly tweaked Bat texture
+
+- Misc housekeeping
