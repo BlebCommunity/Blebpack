@@ -1,8 +1,8 @@
 {
   "pack": {
-    "pack_format": 34,
-    "supported_formats": [20,34],
-    "description": "Blebpack? Bog - v1.4.0"
+    "pack_format": 64,
+    "supported_formats": [53,64],
+    "description": "Blebpack? Bog - v1.2.1"
   },
   "language": {
     "en_bd": {
