@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/spawn_egg_template",
+      "textures": {
+		"0": "item/bee_spawn_egg",
+		"particle": "item/bee_spawn_egg"
+	}
+}

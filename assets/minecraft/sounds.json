@@ -1,0 +1,95 @@
+{
+  "entity.minecart.inside": {
+	    "replace": true,
+	    "subtitle": "Engine rumbles",
+	    "sounds": [
+		    {
+			    "name": "minecart/diesel",
+			    "volume": 0.001
+		    }
+	    ]
+    },
+
+  "entity.minecart.riding": {
+	    "replace": true,
+	    "subtitle": "Trucker rolls",
+	    "sounds": [
+		    {
+			    "name": "minecart/diesel",
+			    "attenuation_distance": 10,
+			    "volume": 2.0
+		    }
+	    ]
+    },
+
+  "ui.toast.challenge_complete": {
+	    "replace": true,
+	    "subtitle": "Bog",
+	    "sounds": [
+		    {
+			    "name": "bleb/congratulations",
+			    "volume": 1.0
+		    } 
+	    ]
+	},
+	
+	"entity.blaze.shoot": {
+	    "replace": true,
+	    "subtitle": "Ledditor shoots",
+	    "sounds": [
+		    {
+			    "name": "bleb/shoots1",
+			    "volume": 2.0
+			} ,
+		    {
+			    "name": "bleb/shoots2",
+			    "volume": 2.0
+			} ,
+			{
+			    "name": "bleb/shoots3",
+			    "volume": 2.0
+			} ,
+			{
+			    "name": "bleb/shoots4",
+			    "volume": 2.0
+			}
+	    ]
+	},
+
+	"entity.blaze.burn": {
+	    "replace": true,
+	    "subtitle": "Furious typing",
+	    "sounds": [
+		    {
+			    "name": "bleb/typing1",
+			    "volume": 0.2
+			},
+			{
+			    "name": "bleb/typing2",
+			    "volume": 0.2
+			}
+	    ]
+	},
+
+	"item.spyglass.use": {
+		"replace": true,
+		"subtitle": "WTF sir",
+		"sounds": [
+			{
+				"name": "bleb/spyglass_expands",
+				"attenuation_distance": 2,
+				"volume": 2
+			}
+		]
+	},
+
+	"item.spyglass.stop_using": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "bleb/spyglass_retracts",
+				"volume": 0.5
+			}
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": [20,34],
+    "description": "Blebpack? Bog - v1.4.0"
+  },
+  "language": {
+    "en_bd": {
+      "name": "Blebspeak",
+      "region": "Blebland Autonomous Region",
+      "bidirectional": false
+    }
+  }
+}
