@@ -1,6 +1,7 @@
 {
-	"texture": "dragon.png",
+	"credit": "Made with Blockbench",
 	"textureSize": [512, 512],
+	"texture": "dragon.png",
 	"models": [
 		{
 			"part": "body",
@@ -157,12 +158,6 @@
 			"translate": [0, -6, 24]
 		},
 		{
-			"part": "spine",
-			"id": "spine",
-			"invertAxis": "xy",
-			"translate": [0, -5, 13]
-		},
-		{
 			"part": "jaw",
 			"id": "jaw",
 			"invertAxis": "xy",
@@ -172,15 +167,15 @@
 			"part": "left_wing",
 			"id": "left_wing",
 			"invertAxis": "xy",
-			"translate": [12, -19, -2],
-			"mirrorTexture": "u"
+			"mirrorTexture": "u",
+			"translate": [12, -19, -2]
 		},
 		{
 			"part": "left_wing_tip",
 			"id": "left_wing_tip",
 			"invertAxis": "xy",
-			"translate": [68, -19, -2],
-			"mirrorTexture": "u"
+			"mirrorTexture": "u",
+			"translate": [68, -19, -2]
 		},
 		{
 			"part": "right_wing",
@@ -265,6 +260,108 @@
 			"id": "back_right_foot",
 			"invertAxis": "xy",
 			"translate": [-16, 52, -44]
+		},
+		{
+			"part": "neck1",
+			"id": "neck1",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "neck2",
+			"id": "neck2",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "neck3",
+			"id": "neck3",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "neck4",
+			"id": "neck4",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "neck5",
+			"id": "neck5",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail1",
+			"id": "tail1",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail2",
+			"id": "tail2",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail3",
+			"id": "tail3",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail4",
+			"id": "tail4",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail5",
+			"id": "tail5",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail6",
+			"id": "tail6",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail7",
+			"id": "tail7",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail8",
+			"id": "tail8",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail9",
+			"id": "tail9",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail10",
+			"id": "tail10",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail11",
+			"id": "tail11",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail12",
+			"id": "tail12",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
 		}
 	]
 }

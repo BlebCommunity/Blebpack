@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/spawn_egg_template",
-      "textures": {
-		"0": "item/skeleton_spawn_egg",
-		"particle": "item/skeleton_spawn_egg"
-	}
-}
