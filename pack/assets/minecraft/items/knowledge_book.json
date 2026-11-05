@@ -1,0 +1,173 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/knowledge_book"
+    },
+    "cases": [
+      {
+        "when": "1",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/bia"
+        }
+      },
+      {
+        "when": "2",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/bleb"
+        }
+      },
+      {
+        "when": "3",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/boggies"
+        }
+      },
+      {
+        "when": "4",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/clown"
+        }
+      },
+      {
+        "when": "5",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/cri"
+        }
+      },
+      {
+        "when": "6",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/d"
+        }
+      },
+      {
+        "when": "7",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/f"
+        }
+      },
+      {
+        "when": "8",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/flex"
+        }
+      },
+      {
+        "when": "9",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/gappa"
+        }
+      },
+      {
+        "when": "10",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/huh"
+        }
+      },
+      {
+        "when": "11",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/icant"
+        }
+      },
+      {
+        "when": "12",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/leddit"
+        }
+      },
+      {
+        "when": "13",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/nerd"
+        }
+      },
+      {
+        "when": "14",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/op"
+        }
+      },
+      {
+        "when": "15",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/pog"
+        }
+      },
+      {
+        "when": "16",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/pogo"
+        }
+      },
+      {
+        "when": "17",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/qt"
+        }
+      },
+      {
+        "when": "18",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/sir"
+        }
+      },
+      {
+        "when": "19",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/tip"
+        }
+      },
+      {
+        "when": "20",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/unless"
+        }
+      },
+      {
+        "when": "21",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/snug"
+        }
+      },
+      {
+        "when": "22",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/gun"
+        }
+      },
+      {
+        "when": "23",
+        "model": {
+          "type": "model",
+          "model": "item/locator_emotes/admire"
+        }
+      }
+    ]
+  }
+}

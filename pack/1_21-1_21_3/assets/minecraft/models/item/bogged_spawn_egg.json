@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/spawn_egg_template",
+      "textures": {
+		"0": "item/bogged_spawn_egg",
+		"particle": "item/bogged_spawn_egg"
+	}
+}

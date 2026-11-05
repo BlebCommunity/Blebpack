@@ -1,0 +1,56 @@
+{
+  "pack": {
+    "description": "Blebpack? Bog - v1.4.0",
+    "pack_format": 34,
+    "supported_formats": [34, 97],
+    "min_format": 34,
+    "max_format": 97
+  },
+  "language": {
+    "en_bd": {
+      "name": "Blebspeak",
+      "region": "Blebland Autonomous Region",
+      "bidirectional": false
+    }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1_21-1_21_1",
+        "min_format": 34,
+        "max_format": 41,
+        "formats": [34, 41]
+      },
+      {
+        "directory": "1_21-1_21_3",
+        "min_format": 34,
+        "max_format": 45,
+        "formats": [34, 45]
+      },
+      {
+        "directory": "1_21-1_21_4",
+        "min_format": 34,
+        "max_format": 54,
+        "formats": [34, 54]
+      },
+      {
+        "directory": "1_21-1_21_11",
+        "min_format": 34,
+        "max_format": 83,
+        "formats": [34, 83]
+      },
+      {
+        "directory": "1_21_2-26_2",
+        "min_format": 42,
+        "max_format": [97, 0],
+        "formats": [42, 97]
+      },
+      {
+        "directory": "1_21_4",
+        "min_format": 46,
+        "max_format": 54,
+        "formats": [46, 54]
+      }
+    ]
+  }
+}

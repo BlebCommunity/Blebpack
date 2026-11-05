@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/spawn_egg_template",
+      "textures": {
+		"0": "item/enderman_spawn_egg",
+		"particle": "item/piglin_brute_spawn_egg"
+	}
+}
