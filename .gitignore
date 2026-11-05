@@ -1,3 +1,4 @@
 /dev*
 *.zip
 /overlayed
+*.py
