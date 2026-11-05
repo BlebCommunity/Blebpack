@@ -102,32 +102,36 @@
 
 # v1.4.0
 
-- Update to 26.3 [by iinterp]
-> The pack now uses resource pack overlays to support all versions of minecraft post 1.20.6 with one .zip
+- Updated to 26.3 [by iinterp]
+  > The pack now uses resource pack overlays to support all versions of minecraft post 1.20.6 in one file
 
-- Add block game blebcraft title text [by zelaesh]
+- Added block game title text [by zelaesh]
   > Blebcraft title replaces super rare minceraft.png
 
-- Add Barry Shulker sounds [by wilco]
+- Added Barry Shulker sounds [by Wil_co]
 
-- Add 10 Baby mob textures for blebpack retextured mobs [by iinterp]
+- Added 10 baby mob textures for blebpack retextured mobs [by iinterp]
   > Bee, Drowned, Husk, Squid, Strider, Trader Llama, tsg Llama, Villager, Zombie, Zombie Villager
 
-- Add 18 Spawn Egg textures [by iinterp]
+- Added 18 Spawn Egg textures [by iinterp]
   > Drowned, Elder Guardian, Ender Dragon, Evoker, Frog, Ghast, Guardian, Happy Ghast, Pillager, Shulker, Slime, Spider, Squid, Strider, Trader LLama, Vindicator, Wandering Trader, Zombie Villager
 
-- Add Accai Trapped Chest
+- Added Accai Trapped Chest [by iinterp]
+
+- Tweaked Bat texture [by iinterp]
+
+- The custom Vishy model is temporarily disabled in 26.3 due to a crash with EMF :(
 
 ### Fixes
-- Fix inconsistencies between British and American spellings
-  > Now always uses British spellings
+- Fixed inconsistencies between British and American English
+  > Now always uses British English
 
-- Fix Arms Up Pottery Sherd being named incorrectly
+- Fixed Arms Up Pottery Sherd being named incorrectly
 
-- Fix Spiders eyes not glowing
+- Fixed Spiders eyes not glowing
 
-- Fix Picky Chickens not saying E
-
-- Slightly tweaked Bat texture
+- Fixed Picky Chickens not saying E
 
 - Misc housekeeping
+
+- Probably more
