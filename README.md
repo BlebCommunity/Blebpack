@@ -58,6 +58,10 @@ kinghingle
 
 iinterp
 
+zelaesh
+
+Wil_co
+
 ---
 
 [Original resource pack](https://www.curseforge.com/minecraft/texture-packs/bleb-resources) by [Jambl3r](https://legacy.curseforge.com/members/jambl3r)  
