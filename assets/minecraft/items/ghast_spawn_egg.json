@@ -3,8 +3,8 @@
     "type": "minecraft:model",
     "model": "minecraft:item/template_spawn_egg",
     "tints": [
-      { "type": "minecraft:constant", "value": 3498131 },
-      { "type": "minecraft:constant", "value": 10659757 }
+      { "type": "minecraft:constant", "value": 14671839 },
+      { "type": "minecraft:constant", "value": 2368806 }
     ]
   }
 }
